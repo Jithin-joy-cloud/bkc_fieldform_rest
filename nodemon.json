@@ -1,0 +1,6 @@
+{
+    "env":{
+        "testPassword" :"test",
+        "Token_KEY": "token"
+    }
+}
